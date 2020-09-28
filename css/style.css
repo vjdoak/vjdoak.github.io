@@ -742,7 +742,7 @@ fieldset[disabled] .btn-default:hover {
       background-attachment: scroll; } }
 
 .slider-bg-alt {
-  background: url(../images/slider_02.jpg) no-repeat;
+  background: url(../images/slider_02.gif) no-repeat;
   background-size: cover;
   background-attachment: fixed; }
   @media (max-width: 767px) {
